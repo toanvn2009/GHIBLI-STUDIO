@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Ghibli Animation Studio",
+  "description": "An AI-powered production pipeline for creating Studio Ghibli-style animated films, from story beats to post-production.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
